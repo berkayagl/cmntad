@@ -9,3 +9,7 @@ or
 chmod +x cmntad.py
 
 ./cmntad.py --iface
+
+# Example
+
+[cmntad.py](test.png)
