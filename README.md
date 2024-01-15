@@ -10,6 +10,6 @@ chmod +x cmntad.py
 
 ./cmntad.py --iface
 
-# Photo
+# Photo CMNTAD
 
-[](test.png)
+[Photo](test.png)
